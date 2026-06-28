@@ -1,4 +1,4 @@
-# 
+# Advanced JetBrains PyCharm plugins for Mac OS | Instant JetBrains PyCharm plugins for PC Windows. Featuring replication-tools and query-editor — optimized for maximum performance on every platform.
 
 
 
